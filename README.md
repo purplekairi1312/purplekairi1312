@@ -14,6 +14,7 @@ I reject centralized, proprietary platforms like GitHub and prefer **real GIT** 
 - **📸 Pixelfed**: [pxlmo.com/6R1MR34P3R](https://pxlmo.com/6R1MR34P3R)  
 - **🐭 Lemmy**: [@6R1MR34P3R@lemmy.ml](https://lemmy.ml/u/6R1MR34P3R)
 - **📰 Usenet**: `alt.2600`, `alt.2600.madrid`, `hispagatos.talk`  
+- **🎼 ListenBrainz**: [listenbrainz.org/6R1MR34P3R](https://listenbrainz.org/user/6R1M%20R34P3R/)
 - **🎼 Libre.fm**: [libre.fm/6R1MR34P3R](https://libre.fm/user/6R1MR34P3R)
 
 ## 🔗 More
