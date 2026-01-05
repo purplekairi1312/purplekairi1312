@@ -1,7 +1,7 @@
 ## 👤 About
 
 I don't actively use this GitHub account beyond opening issues and submitting commits to the few libre and free software projects still hosted here.  
-If you're looking for me, you'll find me on [SourceHut](https://sr.ht/~_purplekairi1312/).  
+If you're looking for me, you'll find me on [SourceHut](https://sr.ht/~purplekairi1312/).  
 
 I reject centralized, proprietary platforms like GitHub and prefer **real GIT** and ethical, libre alternatives; and you should, too.  
 
