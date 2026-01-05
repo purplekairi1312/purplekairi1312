@@ -10,11 +10,11 @@ I reject centralized, proprietary platforms like GitHub and prefer **real GIT** 
 - **🌐 Gemini Capsule**: `gemini://purplekairi1312.softnoise.space`  
 - **📧 Email**: [kairi.net@yourtimehascome.sbs](mailto:kairi.net@yourtimehascome.sbs)  
 - **💬 Matrix**: [@6r1mr34p3r:hispagatos.org](https://matrix.to/#/@6r1mr34p3r:hispagatos.org)  
-- **🐘 Mastodon**: [@6R1MR34P3R@hispagatos.space](https://softnoise.space/@purplekairi1312)  
+- **🐘 Mastodon**: [@purplekairi1312@softnoise.space](https://softnoise.space/@purplekairi1312)  
 - **📸 Pixelfed**: [pxlmo.com/6R1MR34P3R](https://pxlmo.com/6R1MR34P3R)  
 - **📰 Usenet**: `alt.2600`, `alt.2600.madrid`, `hispagatos.talk`  
-- **🎼 ListenBrainz**: [listenbrainz.org/6R1MR34P3R](https://listenbrainz.org/user/purplekairi1312/)
-- **🎼 Libre.fm**: [libre.fm/6R1MR34P3R](https://libre.fm/user/purplekairi1312)
+- **🎼 ListenBrainz**: [listenbrainz.org/purplekairi1312](https://listenbrainz.org/user/purplekairi1312/)
+- **🎼 Libre.fm**: [libre.fm/purplekairi1312](https://libre.fm/user/purplekairi1312)
 
 ## 🔗 More
 
