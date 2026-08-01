@@ -8,7 +8,7 @@ I reject centralized, proprietary platforms like GitHub and prefer **real GIT** 
 ## 📡 Contact
 
 - **🌐 Gemini Capsule**: `gemini://purplekairi1312.softnoise.space`  
-- **🌐 Personal Webpage**: `https://purplekairi1312.softnoise.space`
+- **🌐 Personal Webpage**: [https://purplekairi1312.softnoise.space](https://purplekairi1312.softnoise.space)
 - **📧 Email**: [kairi.net@yourtimehascome.sbs](mailto:kairi.net@yourtimehascome.sbs)  
 - **💬 Matrix**: [@6r1mr34p3r:hispagatos.org](https://matrix.to/#/@6r1mr34p3r:hispagatos.org)  
 - **🐘 Mastodon**: [@purplekairi1312@softnoise.space](https://softnoise.space/@purplekairi1312)  
