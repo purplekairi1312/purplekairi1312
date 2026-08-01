@@ -8,6 +8,7 @@ I reject centralized, proprietary platforms like GitHub and prefer **real GIT** 
 ## 📡 Contact
 
 - **🌐 Gemini Capsule**: `gemini://purplekairi1312.softnoise.space`  
+- **🌐 Personal Webpage**: `https://purplekairi1312.softnoise.space`
 - **📧 Email**: [kairi.net@yourtimehascome.sbs](mailto:kairi.net@yourtimehascome.sbs)  
 - **💬 Matrix**: [@6r1mr34p3r:hispagatos.org](https://matrix.to/#/@6r1mr34p3r:hispagatos.org)  
 - **🐘 Mastodon**: [@purplekairi1312@softnoise.space](https://softnoise.space/@purplekairi1312)  
@@ -15,7 +16,8 @@ I reject centralized, proprietary platforms like GitHub and prefer **real GIT** 
 - **📰 Usenet**: `alt.2600`, `alt.2600.madrid`, `hispagatos.talk`  
 - **🎼 ListenBrainz**: [listenbrainz.org/purplekairi1312](https://listenbrainz.org/user/purplekairi1312/)
 - **🎼 Libre.fm**: [libre.fm/purplekairi1312](https://libre.fm/user/purplekairi1312)
-
+- **🎼 Bandcamp**: [purplekairi1312.bandcamp.com](
+https://purplekairi1312.bandcamp.com/)
 ## 🔗 More
 
 For a deeper understanding of **hacker ethics and culture**, visit:  
